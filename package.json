@@ -1,0 +1,19 @@
+{
+    "name": "define-constant-plugin",
+    "version": "1.0.2",
+    "description": "A plugin to implement DefinePlugin.runtimeValue of high version Webpack in Webpack3",
+    "main": "./src/define-constant-plugin.js",
+    "scripts": {
+        "dev": "node ./example/dev.js",
+        "dev-server": "webpack-dev-server --config ./example/webpack.config.js"
+    },
+    "keywords": ["DefinePlugin", "runtimeValue", "webpack3"],
+    "author": "makedopamine",
+    "license": "MIT",
+    "devDependencies": {
+        "webpack": "3"
+    },
+    "files": [
+       "src/**"
+    ]
+}

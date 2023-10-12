@@ -1,0 +1,5 @@
+console.log(process.env)
+console.log(process.env.NODE_ENV)
+console.log(process.env.NODE_ENV === 'development')
+console.log(typeof process.env.NODE_ENV)
+console.log('14')

@@ -1,0 +1,8 @@
+{
+  "javascript.format.semicolons": "remove",
+  "javascript.preferences.quoteStyle": "single",
+  
+  "files.eol": "\n",
+
+  "editor.tabSize": 2,
+}
